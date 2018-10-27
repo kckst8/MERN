@@ -9,8 +9,8 @@ api.get("/data", function(req, res) {
       name: "One"
     },
     {
-      id: 3,
-      name: "Three"
+      id: 2,
+      name: "Two"
     }
   ]);
 });

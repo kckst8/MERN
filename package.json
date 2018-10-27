@@ -4,7 +4,8 @@
   "private": true,
   "author": "Kevin Krisfalusy",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8"
   },
   "scripts": {},
   "devDependencies": {}
